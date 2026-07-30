@@ -17,7 +17,8 @@ A simple Digital Clock built using HTML, CSS, and JavaScript.
 
 ## Screenshot
 
-(Add screenshot here)
+<img width="1917" height="862" alt="image" src="https://github.com/user-attachments/assets/81ce83ce-7a2a-4852-a789-424a70d6ef5d" />
+
 
 ## Author
 
